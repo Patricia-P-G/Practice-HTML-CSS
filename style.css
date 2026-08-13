@@ -11,18 +11,14 @@
 
 .first-box, .second-box, .third-box {
   background-color: red;
-  height: 200px;
-  width: 200px;
   grid-column: span 1;
 }
 .fourth-box, .fifth-box {
   background-color: blue;
-  height: 400px;
-  width: 400px;
   grid-column: span 1;
 }
 
-/* .box{
+.box{
   display: flex;
   align-items: center;
   justify-content: center;
@@ -31,7 +27,7 @@
   color: black;
   border-radius: 4px;
   height: 250px;
-} */
+}
 
 
 .row-two {
