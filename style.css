@@ -10,7 +10,7 @@
 }
 
 .first-box, .second-box, .third-box {
-  background-color: red;
+  background-color: rgb(10, 111, 47);
   grid-column: span 1;
 }
 .fourth-box, .fifth-box {
